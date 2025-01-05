@@ -1,0 +1,28 @@
+export const movies = [
+    { id: 1, title: "The Shawshank Redemption", director: "Frank Darabont" },
+    { id: 2, title: "The Godfather", director: "Francis Ford Copp" },
+    { id: 3, title: "The Dark Knight", director: "Christopher Nolan" },
+    { id: 4, title: "Pulp Fiction", director: "Quentin Tarantino" },
+    { id: 5, title: "The Lord of the Rings: The Return of the King", director: "Peter Jackson" },
+    { id: 6, title: "Forrest Gump", director: "Robert Zemeckis" },
+    { id: 7, title: "Inception", director: "Christopher Nolan" },
+    { id: 8, title: "Fight Club", director: "David Fincher" },
+    { id: 9, title: "The Matrix", director: "Lana Wachowski, Lilly Wachowski" },
+    { id: 10, title: "Goodfellas", director: "Martin Scorsese" },
+    { id: 11, title: "Star Wars: Episode V - The Empire Strikes Back", director: "Irvin Kershner" },
+    { id: 12, title: "The Silence of the Lambs", director: "Jonathan Demme" },
+    { id: 13, title: "Saving Private Ryan", director: "Steven Spielberg" },
+    { id: 14, title: "Schindler's List", director: "Steven Spielberg" },
+    { id: 15, title: "The Green Mile", director: "Frank Darabont" },
+    { id: 16, title: "Interstellar", director: "Christopher Nolan" },
+    { id: 17, title: "Gladiator", director: "Ridley Scott" },
+    { id: 18, title: "The Departed", director: "Martin Scorsese" },
+    { id: 19, title: "The Prestige", director: "Christopher Nolan" },
+    { id: 20, title: "The Lion King", director: "Roger Allers, Rob Minkoff" },
+    { id: 21, title: "Django Unchained", director: "Quentin Tarantino" },
+    { id: 22, title: "Braveheart", director: "Mel Gibson" },
+    { id: 23, title: "The Avengers", director: "Joss Whedon" },
+    { id: 24, title: "Parasite", director: "Bong Joon Ho" },
+    { id: 25, title: "The Social Network", director: "David Fincher" }
+  ];
+  
