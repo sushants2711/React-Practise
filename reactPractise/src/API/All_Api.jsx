@@ -26,3 +26,32 @@ export const movies = [
     { id: 25, title: "The Social Network", director: "David Fincher" }
   ];
   
+
+export const products = [
+  { id: 1, name: "Wireless Mouse", price: 19.99, category: "Electronics" },
+  { id: 2, name: "Mechanical Keyboard", price: 89.99, category: "Electronics" },
+  { id: 3, name: "Smartphone Case", price: 15.99, category: "Accessories" },
+  { id: 4, name: "Noise-Cancelling Headphones", price: 199.99, category: "Electronics" },
+  { id: 5, name: "Running Shoes", price: 59.99, category: "Footwear" },
+  { id: 6, name: "Yoga Mat", price: 25.99, category: "Fitness" },
+  { id: 7, name: "Water Bottle", price: 9.99, category: "Fitness" },
+  { id: 8, name: "Laptop Stand", price: 34.99, category: "Office Supplies" },
+  { id: 9, name: "Ergonomic Chair", price: 149.99, category: "Office Supplies" },
+  { id: 10, name: "Desk Lamp", price: 39.99, category: "Office Supplies" },
+  { id: 11, name: "Graphic T-Shirt", price: 19.99, category: "Clothing" },
+  { id: 12, name: "Slim Fit Jeans", price: 49.99, category: "Clothing" },
+  { id: 13, name: "Wireless Charger", price: 29.99, category: "Electronics" },
+  { id: 14, name: "Smartwatch", price: 249.99, category: "Electronics" },
+  { id: 15, name: "Bluetooth Speaker", price: 45.99, category: "Electronics" },
+  { id: 16, name: "Electric Kettle", price: 24.99, category: "Kitchen Appliances" },
+  { id: 17, name: "Non-Stick Frying Pan", price: 29.99, category: "Kitchen Appliances" },
+  { id: 18, name: "Stainless Steel Knife Set", price: 89.99, category: "Kitchen Appliances" },
+  { id: 19, name: "Foldable Treadmill", price: 499.99, category: "Fitness" },
+  { id: 20, name: "Action Camera", price: 129.99, category: "Electronics" },
+  { id: 21, name: "Hiking Backpack", price: 74.99, category: "Outdoor" },
+  { id: 22, name: "Camping Tent", price: 129.99, category: "Outdoor" },
+  { id: 23, name: "Portable Power Bank", price: 34.99, category: "Electronics" },
+  { id: 24, name: "LED Fairy Lights", price: 12.99, category: "Home Decor" },
+  { id: 25, name: "Digital Alarm Clock", price: 19.99, category: "Home Decor" },
+];
+
